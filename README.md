@@ -8,6 +8,6 @@ This project predicts whether the SpaceX Falcon 9 first stage will land successf
 - `dataset_part_1.csv`: Processed SpaceX launch dataset.
 
 ## Technologies Used
-- Python 3.x
+- Python 3.11
 - Pandas & NumPy
 - Requests & JSON
